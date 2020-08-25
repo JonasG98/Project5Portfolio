@@ -1,1 +1,9 @@
 # Tutorial
+
+
+
+At the start of project I got put into game development  to work on a game called Skin which uses unity. I have never used unity so before I could help the project I needed to learn the basics of unity.
+I did this by completing a youtube [tutorial] (https://www.youtube.com/watch?v=Sqb-Ue7wpsI) that showed me how to create a 3D first person survival game which is really similar to Skin. This 8hr tutorial was a great start for me to get familiarized with unity and figure out where everything is and how I navigate through this new engine. The tutorial took way longer than 8hr because I had to consistanly pause the video in order to keep up with the instructor. All in all I would say it took me roughly 12 hrs to complete this project. 
+The tutorial was really straightforward and I was basically just following every step according to the instructor which meant I didnt really program anything myself but it made me a lot more confident in starting on this new Project.
+
+After completing the tutorial I got the "newest version" of Skin and was able to play around with it a bit trying to familiarize myself with the project. From the start I realized that this project is a bit of a mess with code duplication, insufficiant commenting, unused methods lying around and methods with over 30 if statements in a row. I tried to learn as much as I could about this project but even now after 5 weeks there is still so much  about this game I will need to learn. My first task was to find bugs and record them and possible fix them. There were plenty of bugs I could find (put pic of bugs here) but not so many I could easily fix. After a week of doing this I was assigned my first new feature which is to implement a head [bobbing feature] (https://jonasg98.github.io/Project5Portfolio/Head) for when my character walks or runs. 
